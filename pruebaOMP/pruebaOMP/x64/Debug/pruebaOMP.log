@@ -1,0 +1,5 @@
+﻿  pruebaOMP.cpp
+C:\Data\David\TEC\Cloud Computing\pruebaOMP\pruebaOMP\pruebaOMP.cpp(34,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Data\David\TEC\Cloud Computing\pruebaOMP\pruebaOMP\pruebaOMP.cpp(35,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Data\David\TEC\Cloud Computing\pruebaOMP\pruebaOMP\pruebaOMP.cpp(18,5): warning C4101: 'i': variable local sin referencia
+  pruebaOMP.vcxproj -> C:\Data\David\TEC\Cloud Computing\pruebaOMP\x64\Debug\pruebaOMP.exe
